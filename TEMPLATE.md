@@ -1,6 +1,4 @@
-# TIL: [Short descriptive title]
-
-**Date:** YYYY-MM-DD  
+# TIL: [Short descriptive title] 
 **Category:** [mcps / agents / app-builders / ai-tools / flutter-mobile / platform-updates]  
 **Tags:** [tag1, tag2]
 
