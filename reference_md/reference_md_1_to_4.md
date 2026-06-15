@@ -31,7 +31,7 @@ Let’s consider a regional fitness studio with 3 branches and no proper custome
 * **Email Invoices**: AWS SES to send PDF invoices and receipts after booking.
     
 
-This setup allows the business to scale as more customers join and pay only for usage[.](https://aneesask57.wixsite.com/aneesa-sk-portfolio/profile/aneesask57/profile)
+This setup allows the business to scale as more customers join and pay only for usage[.]
 
 ## Expanding to Other Business Models
 
